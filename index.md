@@ -1,6 +1,6 @@
 # Index
 This is a file that explains the structure and contents of all files in the documentation sorted alphabetically:
-## developement/
+## development/
 - `color_codes.md` - a list of all the color codes I use in making textures
 - `open_requirements.md` - a list of the requirements to open the LlamaBlocks MCreator workspace
 - `versioning.md` - an explanation of the LlamaBlocks versioning system
@@ -18,8 +18,8 @@ This is a file that explains the structure and contents of all files in the docu
 - `banana.md` - info about the Banana item
 - `banana_patch.md` - info about the feature Banana Plants generate in
 - `banana_plant.md` - info about the Banana Plant
-- `farm_scraps` - info about the item: Farm Scraps
-- `golden_banana` - info about the Golden Banana item
+- `farm_scraps.md` - info about the item: Farm Scraps
+- `golden_banana.md` - info about the Golden Banana item
 ### storage/
 - `backpack.md` - info about the basic Backpack item
 - `netherite_backpack.md` - info about the upgraded Netherite Backpack
