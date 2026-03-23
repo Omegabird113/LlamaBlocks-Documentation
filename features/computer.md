@@ -12,25 +12,25 @@ The Computer offers a variety of features for information, math, player manageme
 
 ## Computer Calculator
 It can use the following 2-value operations:
-| Operators in Computer | Common Name          | 
-|-----------------------|----------------------|
-| `+`                   | Addition             |
-| `-`                   | Subtraction          |
-| `*` or `x`            | Multiplication       |
-| `/`                   | Division             |
-| `^`                   | Exponent             |
-| `MOD`                 | Modulo/Remainder     |
-| `MIN`                 | Minimum              |
-| `MAX`                 | Maximum              |
-| `ATAN2`               | 2-arg Arctangent     |
-| `HYPOT`               | Hypotenuse           |
-| `AND`                 | Bitwise AND          |
-| `OR`                  | Bitwise OR           |
-| `XOR`                 | Bitwise XOR          |
-| `LOG`                 | LogBASE(`#1`) of `#2`|
-| `XOR`                 | Bitwise XOR          |
-| `RAND`                | Random Inclusive     |
-| `RANDEX`              | Random Exclusive     |
-| `ROOT`                | `#1` Root `#2`       |
+| Operators in Computer | Common Name           | 
+|-----------------------|-----------------------|
+| `+`                   | Addition              |
+| `-`                   | Subtraction           |
+| `*` or `x`            | Multiplication        |
+| `/`                   | Division              |
+| `^`                   | Exponent              |
+| `MOD`                 | Modulo/Remainder      |
+| `MIN`                 | Minimum               |
+| `MAX`                 | Maximum               |
+| `ATAN2`               | 2-arg Arctangent      |
+| `HYPOT`               | Hypotenuse            |
+| `AND`                 | Bitwise AND           |
+| `OR`                  | Bitwise OR            |
+| `XOR`                 | Bitwise XOR           |
+| `LOG`                 | LogBASE(`#1`) of `#2` |
+| `XOR`                 | Bitwise XOR           |
+| `RAND`                | Random Inclusive      |
+| `RANDEX`              | Random Exclusive      |
+| `ROOT`                | `#1` Root `#2`        |
 
 ![This shows the Computer UI as of v1.2.0, with a calculator, redstone output selector, random number generator, player management controls, in-game time, player list, LlamaBlocks version, and message loading/saving.](https://cdn.modrinth.com/data/cached_images/83a8dc9f58808e295b15323dfc782b793afd8463.png)
