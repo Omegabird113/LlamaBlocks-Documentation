@@ -1,10 +1,6 @@
 # The Computer
 The Computer offers a variety of features for information, math, player management, and more. Here's a list of its features:
 - It supports having passwords with the Password System, so only people with access can use the other features
-- Players can make calculations using the 2-value operations: `+`, `-`, `*`, `/`, `^`, `MOD`, `MIN`, `MAX`, `ATAN2`, `HYPOT`, `AND`, `OR`, `XOR`, `LOG`, `RAND`, `RANDEX`, and `ROOT`.
-  - `AND`, `OR`, and `XOR` are all bitwise operations
-  - `LOG` is a logbase operation with the syntax `<base> log <n>`
-  - `RAND` is random inclusive and `RANDEX` is random exclusive
 - The Computer Calculator supports the irrational numbers `pi` and `e` to be entered.
 - The single-value operations supported with just value one: `NLOG`, `ROUND`, `CEIL`, `FLOOR`, `SQRT`, `3ROOT`, `ABS`, `SIGNUM`, `SIN`, `COS`, `TAN`, `ASIN`, `ACOS`, `ATAN`, `LOG10`, `RAD>DEG`, and `DEG>RAD`.
 - Players can send messages to other players
@@ -13,5 +9,28 @@ The Computer offers a variety of features for information, math, player manageme
 - Players can set a redstone output between 0 and 15, and they can choose to have the computer pick a random power output between 0 and 15.
 - It shows a list of the names of every player connected to a world/server.
 - The contents of all textboxes in the computer are automatically saved to that computer and reloaded when the Computer is reopened.
+
+## Computer Calculator
+It can use the following 2-value operations:
+| Operators in Computer | Common Name          | 
+|-----------------------|----------------------|
+| `+`                   | Addition             |
+| `-`                   | Subtraction          |
+| `*` or `x`            | Multiplication       |
+| `/`                   | Division             |
+| `^`                   | Exponent             |
+| `MOD`                 | Modulo/Remainder     |
+| `MIN`                 | Minimum              |
+| `MAX`                 | Maximum              |
+| `ATAN2`               | 2-arg Arctangent     |
+| `HYPOT`               | Hypotenuse           |
+| `AND`                 | Bitwise AND          |
+| `OR`                  | Bitwise OR           |
+| `XOR`                 | Bitwise XOR          |
+| `LOG`                 | LogBASE(`#1`) of `#2`|
+| `XOR`                 | Bitwise XOR          |
+| `RAND`                | Random Inclusive     |
+| `RANDEX`              | Random Exclusive     |
+| `ROOT`                | `#1` Root `#2`       |
 
 ![This shows the Computer UI as of v1.2.0, with a calculator, redstone output selector, random number generator, player management controls, in-game time, player list, LlamaBlocks version, and message loading/saving.](https://cdn.modrinth.com/data/cached_images/83a8dc9f58808e295b15323dfc782b793afd8463.png)
