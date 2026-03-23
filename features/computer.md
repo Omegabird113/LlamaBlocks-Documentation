@@ -1,7 +1,6 @@
 # The Computer
 The Computer offers a variety of features for information, math, player management, and more. Here's a list of its features:
 - It supports having passwords with the Password System, so only people with access can use the other features
-- The Computer Calculator supports the irrational numbers `pi` and `e` to be entered.
 - Players can send messages to other players
 - Operators can clear the inventory of and kill players
 - Players can access a formatted string of the 24-hour time (Ex. `7 o'clock (10% through the day)`)
@@ -10,6 +9,11 @@ The Computer offers a variety of features for information, math, player manageme
 - The contents of all textboxes in the computer are automatically saved to that computer and reloaded when the Computer is reopened.
 
 ## Computer Calculator
+The Computer has a calculator function, which can be used to calculate an output between 1 or 2 numbers. There's is a manual calculate button and also a `Automatic` checkbox which re-calculates every tick, when enabled.
+
+### Special Numbers
+The Computer Calculator supports the irrational numbers `pi` and `e` to be entered, alongside the errors `nan`, `inf`, and `-inf`.
+
 ### 2 Value Operations
 | Operators in Computer | Common Name           | 
 |-----------------------|-----------------------|
