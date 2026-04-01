@@ -31,7 +31,6 @@ The Computer Calculator supports the irrational numbers `pi` and `e` to be enter
 | `OR`                  | Bitwise OR            |
 | `XOR`                 | Bitwise XOR           |
 | `LOG`                 | LogBASE(`#1`) of `#2` |
-| `XOR`                 | Bitwise XOR           |
 | `RAND`                | Random Inclusive      |
 | `RANDEX`              | Random Exclusive      |
 | `ROOT`                | `#1` Root `#2`        |
