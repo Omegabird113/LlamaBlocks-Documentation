@@ -56,4 +56,4 @@ The Computer Calculator supports the irrational numbers `pi` and `e` to be enter
 | `RAD>DEG`             | Radian to Degree Conversion   |
 | `DEG>RAD`             | Degree to Radian Conversion   |
 
-![This shows the Computer UI, with a calculator, redstone output selector, random number generator, player management controls, in-game time, player list, LlamaBlocks version, and message loading/saving.](../images/computer_showcase.png)
+![This shows the Computer UI with a calculator, redstone output selector, player management controls, in-game time, player list, and LlamaBlocks version.](../images/computer_showcase.png)
