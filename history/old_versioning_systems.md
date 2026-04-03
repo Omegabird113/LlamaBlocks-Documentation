@@ -18,7 +18,7 @@ This system actually comes in 2 different formats for 2 separate types of versio
 
 This system was used until the switch to the current system with `1.0.0` development cycle before LlamaBlocks' posting to mod platforms.
 
-> [!Note]
+> [!Note ]
 > `0.45.05` was a development build within the `1.0.0` cycle, but it still used the old versioning system and was not retroactively renamed in any way. When the versioning system was changed to the current one, it began at `1.0.0-beta2`, since it was the 2nd public development version released in that cycle.
 ### Full Versions
 | Segment | Meaning                                                | 
@@ -43,6 +43,6 @@ Until MCreator 2026.1, it strips out any characters other than numbers and dots 
 
 I wanted a versioning system that met these requirements:
 - It could show pre-release versions in some clear way
-- MCreator's versioning stripping would end up not effecting it
+- MCreator's versioning stripping would end up not affecting it
 - Newer versions, when sorted as strings, would have newer versions come after older ones
 - It could track changes like commits do before having a git repo
