@@ -1,4 +1,4 @@
-# The Acid Dissolving Effect
+# Acid Dissolving Effect
 Coming into contact with Acid gives `Level 1` of this effect to the entity for `7.5 seconds` *(`150 ticks`)*.
 
 ## Damage
