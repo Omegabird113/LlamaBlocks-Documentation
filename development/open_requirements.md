@@ -1,5 +1,5 @@
 # Requirements to Open the Workspace
-Downlaod the following:
+Download the following:
 - MCreator version [2025.3](https://mcreator.net/download/2025-3)
 - The [Blockstates](https://mcreator.net/plugin/104253/blockstates) plugin
 

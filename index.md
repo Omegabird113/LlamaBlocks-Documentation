@@ -4,7 +4,7 @@ This is a file that explains the structure and contents of all files in the docu
 *The individual files will not be listed as they are just `version display name`.md*
 
 ## development/
-- [color_codes.md](development/versioning.md) - a list of all the color codes I use in making textures
+- [color_codes.md](development/color_codes.md) - a list of all the color codes I use in making textures
 - [open_requirements.md](development/open_requirements.md) - a list of the requirements to open the LlamaBlocks MCreator workspace
 - [versioning.md](development/versioning.md) - an explanation of the LlamaBlocks versioning system
 
