@@ -12,6 +12,7 @@ This is a file that explains the structure and contents of all files in the docu
 - [authenticator.md](features/authenticator.md) - info about the Authenticator block
 - [blocksets.md](features/blocksets.md) - info about the decorative block Blocksets
 - [computer.md](features/computer.md) - info about the Computer
+- [gamerules.md](features/gamerules.md) - a table of every gamerule LlamaBlocks adds
 - [load_requirements.md](features/load_requirements.md) - the requirements to load into Minecraft with LlamaBlocks
 - [password_system.md](features/password_system.md) - an explanation of the Password System
 - [variable_light.md](features/variable_light.md) - info about the Variable Light block
