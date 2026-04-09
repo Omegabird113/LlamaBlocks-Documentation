@@ -18,8 +18,9 @@ This system actually comes in 2 different formats for 2 separate types of versio
 
 This system was used until the switch to the current system with `1.0.0` development cycle before LlamaBlocks' posting to mod platforms.
 
-> [!Note ]
+> [!Note]
 > `0.45.05` was a development build within the `1.0.0` cycle, but it still used the old versioning system and was not retroactively renamed in any way. When the versioning system was changed to the current one, it began at `1.0.0-beta2`, since it was the 2nd public development version released in that cycle.
+
 ### Full Versions
 | Segment | Meaning                                                | 
 |:--------|:-------------------------------------------------------|
