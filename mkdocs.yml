@@ -1,4 +1,0 @@
-site_name: LlamaBlocks Documentation
-theme:
-  name: material
-docs_dir: .
