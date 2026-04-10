@@ -17,7 +17,7 @@ The Computer has a calculator function, which can be used to calculate an output
 ### Special Numbers
 The Computer Calculator supports the irrational numbers `pi` and `e` to be entered, alongside the errors `nan`, `inf`, and `-inf`.
 
-### 2 Value Operations
+### Two Value Operations
 | Operators in Computer | Common Name           | 
 |-----------------------|-----------------------|
 | `+`                   | Addition              |
@@ -38,7 +38,7 @@ The Computer Calculator supports the irrational numbers `pi` and `e` to be enter
 | `RANDEX`              | Random Exclusive      |
 | `ROOT`                | `#1` Root `#2`        |
 
-### 1 Value Operations
+### One Value Operations
 | Operators in Computer | Common Name                   | 
 |-----------------------|-------------------------------|
 | `NLOG`                | Natural Logarithim            |
