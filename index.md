@@ -1,5 +1,5 @@
 # Index
-This is a file that explains the structure and contents of all files in the documentation sorted alphabetically:
+This is a file that explains the structure and contents of all files in [the documentation](https://omegabird113.github.io/llamamod/) sorted alphabetically:
 ## changelogs/
 *The individual files will not be listed as they are just `version display name`.md*
 
@@ -19,8 +19,8 @@ This is a file that explains the structure and contents of all files in the docu
 
 **acid/**
 
-- [acid_fluid.md](features/acid/acid_fluid.md) - info about the acid liquid itself
 - [acid_effect.md](features/acid/acid_effect.md) - info about the Acid Dissolving effect
+- [acid_fluid.md](features/acid/acid_fluid.md) - info about the acid liquid itself
 
 **bananas/**
 
