@@ -16,6 +16,7 @@ This is a file that explains the structure and contents of all files in [the doc
 - [load_requirements.md](features/load_requirements.md) - the requirements to load into Minecraft with LlamaBlocks
 - [password_system.md](features/password_system.md) - an explanation of the Password System
 - [variable_light.md](features/variable_light.md) - info about the Variable Light block
+- [where_to_download.md](features/where_to_download.md) - a set of clickable badge links to every platform LlamaBlocks can be downloaded from
 
 **acid/**
 
