@@ -46,6 +46,7 @@ This is a file that explains the structure and contents of all files in [the doc
 - [banana_showcase.png](images/banana_showcase.png) - a showcase of a Banana Patch
 - [block_showcase.png](images/block_showcase.png) - an image of every non-cracked variant of the Bricks & Large Tiles
 - [computer_showcase.png](images/computer_showcase.png) - an image of the Computer UI
+- [logo.png](images/logo.png) -- an image of the LlamaBlocks logo
 - [password_changer_showcase.png](images/password_changer_showcase.png) - an image of the Password Changer UI
 - [secure_storage_block_showcase.png](images/secure_storage_block_showcase.png) - an image of the Secure Storage Block UI
 - [showcase.png](images/showcase.png) - the main showcase image of a build with Teal & White Blocks, the Secure Storage Block, the Computer, and more
