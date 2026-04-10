@@ -1,4 +1,4 @@
-# Versions
+# Unpublished Versions
 This is a catalog of all existing non-public versions of LlamaBlocks I created. 
 
 ## Why Some Versions Are Still Private

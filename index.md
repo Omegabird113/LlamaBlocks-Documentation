@@ -18,10 +18,12 @@ This is a file that explains the structure and contents of all files in the docu
 - [variable_light.md](features/variable_light.md) - info about the Variable Light block
 
 **acid/**
+
 - [acid_fluid.md](features/acid/acid_fluid.md) - info about the acid liquid itself
 - [acid_effect.md](features/acid/acid_effect.md) - info about the Acid Dissolving effect
 
 **bananas/**
+
 - [banana.md](features/bananas/banana.md) - info about the Banana item
 - [banana_patch.md](features/bananas/banana_patch.md) - info about the feature Banana Plants generate in
 - [banana_plant.md](features/bananas/banana_plant.md) - info about the Banana Plant
@@ -29,6 +31,7 @@ This is a file that explains the structure and contents of all files in the docu
 - [golden_banana.md](features/bananas/golden_banana.md) - info about the Golden Banana item 
 
 **storage/**
+
 - [backpack.md](features/storage/backpack.md) - info about the basic Backpack item
 - [netherite_backpack.md](features/storage/netherite_backpack.md) - info about the upgraded Netherite Backpack
 - [secure_storage_block.md](features/storage/secure_storage_block.md) - info about the Secure Storage Block
