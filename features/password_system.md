@@ -8,6 +8,9 @@ You can use a `Password Changer` to update the password of a block. If the block
 > 
 > The `Password Changer` allows for you to edit passwords of blocks that do not support passwords, though it does show a warning in that case. 
 
+## Showcase Image
+![This shows the UI of the Password changer being used to change a sample block's password.](../images/password_changer_showcase.png)
+
 ## How blocks Handle Having No Password
 - The `Computer` and `Secure Storage Block` skip the authentication screen and just go on to the block.
 - The authenticator requires the password field to be left blank in order for it to succeed.
@@ -23,5 +26,3 @@ You can use a `Password Changer` to update the password of a block. If the block
 > **Note**:
 > 
 > More specifically, passwords are stored in a NBT text tag named `access_password`, which can be easily viewed using the vanilla `/data` command.
-
-![This shows the UI of the Password changer being used to change a sample block's password.](../images/password_changer_showcase.png)
