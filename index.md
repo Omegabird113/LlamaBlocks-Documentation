@@ -1,7 +1,8 @@
 # Index
-This is a file that explains the structure and contents of all files in [the documentation](https://omegabird113.github.io/llamamod/) sorted alphabetically:
+This is a file that explains the contents of [the documentation](https://omegabird113.github.io/llamamod/) sorted alphabetically:
+
 ## changelogs/
-*The individual files will not be listed as they are just `version display name`.md*
+The individual files will not be listed as they are just `version display name`.md
 
 ## development/
 - [color_codes.md](development/color_codes.md) - a list of all the color codes I use in making textures
