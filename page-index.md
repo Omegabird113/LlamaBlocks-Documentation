@@ -1,4 +1,4 @@
-# LlamaBlocks Documentation Page Index
+# Index
 This is a file that explains the contents of [the documentation](https://omegabird113.github.io/llamamod/) sorted alphabetically:
 
 ## changelogs/
