@@ -55,7 +55,6 @@ Changelogs are available for the following versions:
 - [acid_fluid.md](features/acid/acid_fluid.md) - info about the acid liquid itself
 
 #### bananas/
-
 - [banana.md](features/bananas/banana.md) - info about the Banana item
 - [banana_patch.md](features/bananas/banana_patch.md) - info about the feature Banana Plants generate in
 - [banana_plant.md](features/bananas/banana_plant.md) - info about the Banana Plant
@@ -63,7 +62,6 @@ Changelogs are available for the following versions:
 - [golden_banana.md](features/bananas/golden_banana.md) - info about the Golden Banana item 
 
 #### storage/
-
 - [backpack.md](features/storage/backpack.md) - info about the basic Backpack item
 - [netherite_backpack.md](features/storage/netherite_backpack.md) - info about the upgraded Netherite Backpack
 - [secure_storage_block.md](features/storage/secure_storage_block.md) - info about the Secure Storage Block
