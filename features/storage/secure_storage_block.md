@@ -1,5 +1,6 @@
 # Secure Storage Block
 This is like a barrel, but:
+
 - It has `7` rows of items
 - There is a button which deletes all items, though there's a checkbox on whether or not to show that button in order to prevent accidental deletions
 - It supports having passwords with the Password System
