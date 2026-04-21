@@ -50,6 +50,7 @@ This is a file that explains the contents of [the documentation](https://omegabi
 - [gamerules.md](features/gamerules.md) - a table of every gamerule LlamaBlocks adds
 - [load_requirements.md](features/load_requirements.md) - the requirements to load into Minecraft with LlamaBlocks
 - [password_system.md](features/password_system.md) - an explanation of the Password System
+- [storage_features.md](features/storage_features.md) - info about the Backpack, Netherite Backpack, and Secure Storage Block
 - [variable_light.md](features/variable_light.md) - info about the Variable Light block
 
 #### acid/
@@ -61,12 +62,7 @@ This is a file that explains the contents of [the documentation](https://omegabi
 - [banana_patch.md](features/bananas/banana_patch.md) - info about the feature Banana Plants generate in
 - [banana_plant.md](features/bananas/banana_plant.md) - info about the Banana Plant
 - [farm_scraps.md](features/bananas/farm_scraps.md) - info about the item: Farm Scraps
-- [golden_banana.md](features/bananas/golden_banana.md) - info about the Golden Banana item 
-
-#### storage/
-- [backpack.md](features/storage/backpack.md) - info about the basic Backpack item
-- [netherite_backpack.md](features/storage/netherite_backpack.md) - info about the upgraded Netherite Backpack
-- [secure_storage_block.md](features/storage/secure_storage_block.md) - info about the Secure Storage Block
+- [golden_banana.md](features/bananas/golden_banana.md) - info about the Golden Banana item
 
 ### history/
 - [old_versioning_systems.md](history/old_versioning_systems.md) - info about the old versioning systems from before LlamaBlocks was made public
