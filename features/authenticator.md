@@ -6,3 +6,6 @@ If the Authenticator has no password set, the player has to leave the password f
 **empty** and press the `Submit` button in order to successfully authenticate. Submitting any non-empty input will cause an incorrect password warning.
 
 You can set a password using the `Password Changer`.
+
+## Showcase Image
+![This shows the Authenticator Password Prompt UI.](../images/authenticator_showcase.png)
