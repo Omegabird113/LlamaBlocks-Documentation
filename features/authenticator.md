@@ -1,6 +1,5 @@
 # Authenticator
-The Authenticator is a redstone block that uses the Password System to prevent access to an area using vanilla redstone features. When a player right clicks it, they are shown a password prompt UI. If the correct
-password is entered, the block emits a redstone pulse from all sides for `15 game ticks` (`0.75 seconds`) which will go away after. There is no cooldown for repeated failed password attempts, like the rest of the [Password System](password_system.md). Also, any player can re-authenticate which would restart the countdown.
+The Authenticator is a redstone block that uses the Password System to prevent access to an area using vanilla redstone features. When a player right clicks it, they are shown a password prompt UI. If the correct password is entered, the block emits a redstone pulse from all sides for `15 game ticks` (`0.75 seconds`) which will go away after. There is no cooldown for repeated failed password attempts, like the rest of the [Password System](password_system.md). Also, any player can re-authenticate which would restart the countdown.
 
 ## No Password Set
 If the Authenticator has no password set, the player has to leave the password field
