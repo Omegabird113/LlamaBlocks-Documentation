@@ -7,7 +7,7 @@ The [LlamaBlocks Documentation](https://omegabird113.github.io/llamamod/) is ava
 
 Below the next line is an exact markdown copy of the CC-BY-4.0 license copied from [https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by-sa.markdown](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/4.0/by-sa.markdown).
 
-<hr></hr>
+<hr/>
 
 # Creative Commons Attribution-ShareAlike 4.0 International
 
