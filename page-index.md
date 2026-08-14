@@ -2,10 +2,10 @@
 This is a file that explains the contents of [the documentation](https://omegabird113.github.io/llamamod/) sorted alphabetically:
 
 ## Root of the Documentation
-- [README.md](README.md) - An explanation of the Documentation and the homepage of the documentation website
-- [license.md](license.md) - The license for the Documentation (`CC-BY-SA 4.0`)
-- [mod-license.md](mod-license.md) - The license of the Mod itself (`GPLv3`)
-- [page-index.md](page-index.md) - This index
+- [README.md](README.md) - an explanation of the Documentation and the homepage of the documentation website
+- [license.md](license.md) - the license for the Documentation (`CC-BY-SA 4.0`)
+- [mod-license.md](mod-license.md) - the license of the Mod itself (`GPLv3`)
+- [page-index.md](page-index.md) - this index
 
 ### changelogs/
 #### full_versions/
@@ -81,12 +81,12 @@ This is a file that explains the contents of [the documentation](https://omegabi
 ### images/
 - [abandoned_farm_showcase.png](images/abandoned_farm_showcase.png) - an image of an Abandoned Farm structure
 - [acid_lake_showcase.png](images/acid_lake_showcase.png) - image of a naturally generating Acid Lake in the End
-- [authenticator.png](images/authenticator_showcase.png) - image of the Authenticator Password Prompt UI
+- [authenticator_showcase.png](images/authenticator_showcase.png) - image of the Authenticator Password Prompt UI
 - [banana_showcase.png](images/banana_showcase.png) - a showcase of a Banana Patch
 - [block_showcase.png](images/block_showcase.png) - an image of every non-cracked variant of the Bricks & Large Tiles
 - [computer_showcase.png](images/computer_showcase.png) - an image of the Computer UI
 - [favicon.ico](images/favicon.ico) - the website's favicon image
-- [logo.png](images/logo.png) -- an image of the LlamaBlocks logo
+- [logo.png](images/logo.png) - an image of the LlamaBlocks logo
 - [password_changer_showcase.png](images/password_changer_showcase.png) - an image of the Password Changer UI
 - [secure_storage_block_showcase.png](images/secure_storage_block_showcase.png) - an image of the Secure Storage Block UI
 - [showcase.png](images/showcase.png) - the main showcase image of a build with Teal & White Blocks, the Secure Storage Block, the Computer, and more

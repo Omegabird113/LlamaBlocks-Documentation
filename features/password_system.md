@@ -8,7 +8,7 @@ You can use a `Password Changer` to update the password of a block. If the block
 ![This shows the UI of the Password changer being used to change a sample block's password.](../images/password_changer_showcase.png)
 
 ## How blocks Handle Having No Password
-- The `Computer` and `Secure Storage Block` skip the authentication screen and just go on to the block.
+- The `Computer` and `Secure Storage Block` skip the authentication screen and go on to the block.
 - The authenticator requires the password field to be left blank in order for it to succeed.
 
 ## Important Security Concerns
